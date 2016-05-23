@@ -1,0 +1,10 @@
+{
+  "extends": "react-li/react",
+  "env": {
+    "mocha": true
+  },
+  "globals": {
+    "expect": true,
+    "shallow": true
+  }
+}
