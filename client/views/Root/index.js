@@ -5,7 +5,7 @@ import style from './Root.css';
 
 export const Root = ({children, loading}) => (
   <div className={style.root}>
-    <h1>Hello World</h1>
+    <h1>Hello react</h1>
     {loading && 'Loading...'}
     {children}
   </div>

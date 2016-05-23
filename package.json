@@ -1,6 +1,11 @@
 {
   "name": "react-dev",
   "version": "0.0.1",
+  "description": "> Boilerplate for universal React applications.",
+  "main": "webpack.config.babel.js",
+  "directories": {
+    "test": "test"
+  },
   "private": true,
   "scripts": {
     "build": "NODE_ENV=production webpack -c --progress",
@@ -53,5 +58,18 @@
     "style-loader": "0.13.1",
     "url-loader": "0.5.7",
     "webpack": "1.13.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/react-li/react-dev.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Julian",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/react-li/react-dev/issues"
+  },
+  "homepage": "https://github.com/react-li/react-dev#readme"
 }

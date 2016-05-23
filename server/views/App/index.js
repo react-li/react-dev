@@ -5,7 +5,7 @@ const App = ({assets, content, initialState}) => (
     <head>
       <meta charSet='utf-8' />
       <meta content='width=device-width, initial-scale=1' name='viewport' />
-      <title>Hello World</title>
+      <title>Hello React</title>
       <link href={assets.main.css} rel='stylesheet' />
     </head>
     <body>

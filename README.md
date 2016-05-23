@@ -1,4 +1,4 @@
-# React development boilerplate
+# React v15+ development boilerplate
 
 > Boilerplate for universal React applications.
 
@@ -21,7 +21,7 @@
 - [x] [Redux DevTools Extension](https://github.com/zalmoxisus/redux-devtools-extension)
 - [x] [Webpack](https://webpack.github.io)
 
-## Setup
+## Init
 
 ```bash
 $ npm install
@@ -40,6 +40,13 @@ Start production server:
 ```bash
 $ npm start
 ```
+
+Start test :
+
+```bash
+$ npm test
+```
+
 
 ## License
 

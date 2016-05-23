@@ -10,7 +10,7 @@ describe('Root', () => {
 
     expect(output).toEqualJSX(
       <div className={style.root}>
-        <h1>Hello World</h1>
+        <h1>Hello CR</h1>
       </div>
     );
   });
@@ -21,7 +21,7 @@ describe('Root', () => {
 
     expect(output).toEqualJSX(
       <div className={style.root}>
-        <h1>Hello World</h1>
+        <h1>Hello React</h1>
         Loading...
       </div>
     );
