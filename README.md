@@ -3,7 +3,7 @@
 > Boilerplate for universal React applications.
 
 
-[中文](./CN.md)
+[中文简介](./CN.md)
 
 ## Features
 
